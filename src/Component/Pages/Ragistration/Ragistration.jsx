@@ -32,7 +32,7 @@ const Ragistration = () => {
                     <input type="password" className="input w-full lg:text-[1rem]" placeholder="Password" />
 
                     <label className="label mt-2">
-                        <input type="checkbox" defaultChecked className="checkbox" />
+                        <input type="checkbox" className="checkbox" />
                         <span className="text-[0.9rem]">Accept All Terms & Conditions</span>
                     </label>
 
